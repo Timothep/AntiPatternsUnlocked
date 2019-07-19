@@ -1,1 +1,3 @@
-The problem in this scenario is, that we are using a boolean expression to determine which boolean value to return. The returned value is the same as the result of the expression.
+# Use what you already have
+
+How can you inline the branching return?
