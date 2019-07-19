@@ -4,6 +4,7 @@
 ### Users
 1. Fork this repository
 2. Create your user-specific branch on the origin-repository using this website (....)
+  Hack: The website is not up yet. Create a Github issue, one of the contributors will create it for you.
 3. Solve the antipattern
 4. Create a PullRequest to merge your changes onto your user-specific branch on the origin repository. Use the comments of your pull request to explain your changes!
 
